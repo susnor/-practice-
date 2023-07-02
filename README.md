@@ -1,6 +1,6 @@
 # <font color="#fdf730"><center><ins><p style="text-shadow: 0.13em 0.13em 0.0em #8b00ff">*****English IELTS*****</p><ins></center></font>
 > ## <font color="#d0ff34">Directory<font>
->>### <font color="#0996ff">[Diary](#Diary)<font>
+>>### <font color="#0996ff">[DiaryTitle](#Diary)<font>
 ## ***<h3 id="Diary"><font color="#9f88fe"><center><p style="background-color: #ceff00" ><ins>**Diary**<ins></p></center><font></p></h3>***<font color="#a9faff"><font>
 > * ## <font color="#a9faff">Directory<font>
 >>* ### <font color="#a9faff">[2023.6.29](#June29,2023)<font>
